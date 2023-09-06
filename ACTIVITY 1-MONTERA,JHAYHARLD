@@ -1,0 +1,9 @@
+run:
+Choose Operator: 1. Addition 2. Subtraction 3. Multiplication 4. Division 
+1
+Enter 1st Digit; 
+3
+Enter 2nd Digit: 
+4
+The answer is 7
+BUILD SUCCESSFUL (total time: 10 seconds)
